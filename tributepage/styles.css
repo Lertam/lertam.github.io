@@ -30,6 +30,8 @@ main > div {
 }
 #image {
     max-width:220px;
+    display:block;
+    margin:auto;
 }
 
 #img-caption {
@@ -82,9 +84,5 @@ footer {
 
     #tribute-info ul {
         grid-template-columns:auto;
-    }
-    #image {
-        display:block;
-        margin:auto;
     }
 }
